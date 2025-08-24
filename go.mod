@@ -1,4 +1,4 @@
-module github.com/tahcohcat/godayoda
+module github.com/tahcohcat/chaosmonk
 
 go 1.21
 
