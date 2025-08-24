@@ -1,5 +1,16 @@
 # ChaosMonk 🐵💥
 
+[![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=for-the-badge&logo=go)](https://golang.org/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
+[![Chaos Level](https://img.shields.io/badge/Chaos%20Level-💥%20MAXIMUM-red?style=for-the-badge)]()
+[![Ollama](https://img.shields.io/badge/Powered%20by-Ollama-FF6B35?style=for-the-badge&logo=ollama)](https://ollama.ai/)
+[![Made with](https://img.shields.io/badge/Made%20with-❤️%20%26%20☕-yellow?style=for-the-badge)]()
+
+[![Personality Count](https://img.shields.io/badge/Personalities-15%2B-purple?style=flat-square)]()
+[![API](https://img.shields.io/badge/Quotes%20API-DummyJSON-blue?style=flat-square)](https://dummyjson.com/)
+[![CLI](https://img.shields.io/badge/Interface-CLI-brightgreen?style=flat-square)]()
+[![Chaos Engineering](https://img.shields.io/badge/Philosophy-Chaos%20Engineering-orange?style=flat-square)]()
+
 A chaotic CLI application that fetches random quotes and transforms them with unpredictable personalities using Ollama LLM. Embrace the chaos!
 
 ## Features
